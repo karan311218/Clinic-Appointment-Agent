@@ -25,15 +25,6 @@ npm run seed               # creates collections, indexes and sample data
 npm start                  # starts the chat
 ```
 
-Edit `.env` before running:
-
-```
-GROQ_API_KEY=your_groq_api_key_here
-GROQ_MODEL=openai/gpt-oss-120b
-MONGODB_URI=mongodb://127.0.0.1:27017
-MONGODB_DB=medislot
-ADMIN_PIN=1234
-```
 
 The real `.env` file is git-ignored; only `.env.example` is committed.
 
