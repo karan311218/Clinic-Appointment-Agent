@@ -1,0 +1,14 @@
+{
+  "name": "medislot-simple",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "seed": "node seed.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "groq-sdk": ">=0.5.0",
+    "mongodb": "^6.8.0"
+  }
+}
