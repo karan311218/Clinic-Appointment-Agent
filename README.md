@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Team name** | `<your team name>` |
+| ** developer_name** | `Karan Shrivastava` |
 | **Task code** | T2 - Clinic Appointment Booking Agent |
 | **Agent name** | **MediSlot** |
 | **Stack** | Node.js, MongoDB, Groq API (LLM tool calling) |
